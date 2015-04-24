@@ -19,5 +19,8 @@ Completed all the required:
 
 GIF Walkthrough :  proxy_server_walkthrough.gif
 
-[Proxy Server GIF WWalkthrough](proxy_server_walkthrough.gif)
+This is the shorter version
+[Proxy Server GIF Walkthrough](proxy_server_walkthrough.gif)
 
+This is the longer version
+[Proxy Server GIF Walkthrough](proxy_server_walkthrough_2.gif)
