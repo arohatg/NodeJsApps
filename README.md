@@ -17,7 +17,6 @@ Completed all the required:
 
 [X] Required: The --logfile argument outputs all logs to the file specified instead of stdout
 
-GIF Walkthrough :  proxy_server_walkthrough.gif
 
 This is the shorter version
 [Proxy Server GIF Walkthrough](proxy_server_walkthrough.gif)
