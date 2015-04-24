@@ -19,5 +19,5 @@ Completed all the required:
 
 GIF Walkthrough :  proxy_server_walkthrough.gif
 
-
+[Proxy Server GIF WWalkthrough](proxy_server_walkthrough.gif)
 
