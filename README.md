@@ -3,7 +3,7 @@ This is a Proxy Server for Node.js submitted as the pre-work requirement for Cod
 
 Time spent: 8 hrs
 
-Completed All the required:
+Completed all the required:
 
 [X] Required: Requests to port 8000 are echoed back with the same HTTP headers and body
 
@@ -17,11 +17,7 @@ Completed All the required:
 
 [X] Required: The --logfile argument outputs all logs to the file specified instead of stdout
 
-[] Optional: The --exec argument proxies stdin/stdout to/from the destination program
+GIF Walkthrough :  proxy_server_walkthrough.gif
 
-[] Optional: The --loglevel argument sets the logging chattiness
 
-[] Optional: Supports HTTPS
-
-[] Optional: -h argument prints CLI API
 
