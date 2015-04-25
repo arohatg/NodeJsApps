@@ -1,9 +1,9 @@
 
 This is a Proxy Server assignment for Node.js submitted as the pre-work requirement for CodePath.
 
-Time spent: 8 hrs
+Time spent: 11 hrs
 
-Completed all the required:
+Completed all the following
 
 [X] Required: Requests to port 8000 are echoed back with the same HTTP headers and body
 
@@ -17,9 +17,18 @@ Completed all the required:
 
 [X] Required: The --logfile argument outputs all logs to the file specified instead of stdout
 
+[X] Optional: The --exec argument proxies stdin/stdout to/from the destination program
+
+[X] Optional: The --loglevel argument sets the logging chattiness
+
+[X] Optional: Supports HTTPS
+
+[X] Optional: -h argument prints CLI API
 
 This is the shorter version
 [Proxy Server GIF Walkthrough](proxy_server_walkthrough.gif)
 
 This is the longer version
 [Proxy Server GIF Walkthrough](proxy_server_walkthrough_2.gif)
+
+I will be soon updating the GIF Walkthrough with the optional features
