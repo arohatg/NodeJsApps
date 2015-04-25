@@ -26,9 +26,9 @@ Completed all the following
 [X] Optional: -h argument prints CLI API
 
 This is the shorter version
-[Proxy Server GIF Walkthrough](proxy_server_walkthrough.gif)
+[Proxy Server GIF Walkthrough Required Featured](proxy_server_walkthrough_required.gif)
 
 This is the longer version
-[Proxy Server GIF Walkthrough](proxy_server_walkthrough_2.gif)
+[Proxy Server GIF Walkthrough Optional Features](proxy_server_walkthrough_optional.gif)
 
 I will be soon updating the GIF Walkthrough with the optional features
