@@ -31,4 +31,4 @@ This is the shorter version
 This is the longer version
 [Proxy Server GIF Walkthrough Optional Features](proxy_server_walkthrough_optional.gif)
 
-I will be soon updating the GIF Walkthrough with the optional features
+I have added the GIF Walkthrough with the optional features. Please review.
