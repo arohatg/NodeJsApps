@@ -1,5 +1,5 @@
-Proxy Server
-This is a Proxy Server for Node.js submitted as the pre-work requirement for CodePath.
+
+This is a Proxy Server assignment for Node.js submitted as the pre-work requirement for CodePath.
 
 Time spent: 8 hrs
 
@@ -17,7 +17,9 @@ Completed all the required:
 
 [X] Required: The --logfile argument outputs all logs to the file specified instead of stdout
 
-GIF Walkthrough :  proxy_server_walkthrough.gif
 
-[Proxy Server GIF WWalkthrough](proxy_server_walkthrough.gif)
+This is the shorter version
+[Proxy Server GIF Walkthrough](proxy_server_walkthrough.gif)
 
+This is the longer version
+[Proxy Server GIF Walkthrough](proxy_server_walkthrough_2.gif)
